@@ -1,4 +1,4 @@
-# Impressora3DCherry
+# Impressora 3D - Cherry
 Impressora 3D de baixo Custo.
 
 # Referências
