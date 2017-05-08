@@ -6,7 +6,7 @@ Impressora 3D de baixo Custo.
 ### MDF 
 
 |  **Tamanho**   |  **Qunatidade** |
-|:--------------:|:---------------:|
+|:--------------|:---------------:|
 |  30X34 cm      | 1               |
 |  6x4 cm        | 2               |
 |  34x6 cm       | 1               |
@@ -15,7 +15,7 @@ Impressora 3D de baixo Custo.
 ### Ferragens 
 
 | **Descrição**          | **Quantidade** |
-|:----------------------:|:---------------|
+|:----------------------|:---------------|
 | Barra lisa 8 mm - 22cm | 2 unidades     |
 | Barra lisa 8 mm - 17,5cm |4 unidades |
 | Haste de rosca M5 | 1 unidade | 
