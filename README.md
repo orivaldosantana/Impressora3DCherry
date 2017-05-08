@@ -16,6 +16,8 @@ Impressora 3D de baixo Custo.
 
 | **Descrição**          | **Quantidade** |
 |:----------------------|:---------------|
+| Rolamento  LM8UU | 12 unidades |
+| Rolamento 624 | 10 unidades |
 | Barra lisa 8 mm - 22cm | 2 unidades     |
 | Barra lisa 8 mm - 17,5cm |4 unidades |
 | Haste de rosca M5 | 1 unidade | 
@@ -28,6 +30,17 @@ Impressora 3D de baixo Custo.
 | Porca M4 | 20 unidades |
 | Porca M3 | 10 unidades |
 | Parafuso para madeira | 12 unidades |
+
+## Outros 
+
+| **Descrição**          | **Quantidade** |
+|:----------------------|:---------------|
+| Drivergear MK8 | 1 Unidade | 
+| Polia GT2 | 2 Unidades | 
+| 1m de correia GT2 | 2 unidades | 
+| Bico com Tubo de PTFE  | 1 Kit |
+
+
 
 
 ## Referências
